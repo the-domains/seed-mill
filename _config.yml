@@ -1,0 +1,14 @@
+layout_spectrum: 0.5483951638452709
+typography_spectrum: 0.4238517589401454
+color:
+  brandStrength: 0.047083619283512235
+  lightness: 0.849368130788207
+  saturation: 0.06812759628519416
+  rhythmicContrast: 0.3513572362717241
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Seed Mill
